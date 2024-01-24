@@ -1,16 +1,23 @@
-### Hi there 👋
+🌐 🤖 Automation Engineer | Automation and Manual Testing 🔧 🚀
 
-<!--
-**MuhammadMueed24/MuhammadMueed24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Muhammad Mueed, and I am an accomplished automation engineer deeply dedicated to ensuring top-notch software quality through comprehensive Manual and Automation testing. I specialize in automating web applications using Selenium with Java and Python, Additionally, I have also automated Rest API's using python. With my expertise and dedication, I strive to ensure that software products meet the highest standards of excellence. 💻🔍
 
-Here are some ideas to get you started:
+With a strong foundation in software testing principles and methodologies, I strive to create reliable and efficient testing strategies that guarantee the quality and reliability of software products. By leveraging automation frameworks and tools, I streamline testing processes to enhance efficiency and effectiveness. 🧪🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Skills:
+
+✔️ Automation Testing: Selenium (Java, Python),  Backend Automation (Python)
+
+✔️ Manual Testing: Test Planning, Test Design, Test Execution, Defect Management
+
+✔️ Test Automation Frameworks: TestNG, PyTest
+
+✔️ Continuous Integration/Continuous Delivery (CI/CD): Jenkins, Git, GitHub Actions
+
+✔️ Agile Methodologies: Scrum, Kanban
+
+🏆 I am deeply passionate about delivering robust and reliable software solutions. I thrive in dynamic and collaborative environments, constantly staying updated with the latest industry trends and technologies. Embracing continuous learning and improvement, I am committed to delivering excellence. 🌟📚
+
+Let's connect and collaborate on innovative projects that drive quality and efficiency in software development. Feel free to reach out to me here on GitHub or through my email at mmueed44@gmail.com. 📩🤝
+
+I look forward to making valuable contributions in the field of automation testing! 📚
